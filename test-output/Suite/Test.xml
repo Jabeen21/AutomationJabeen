@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-KESBKI64" name="com.learnAutomation.FirstMavenDemo" tests="1" failures="0" timestamp="3 Mar 2017 01:27:59 GMT" time="0.021" errors="0">
+  <testcase name="testHello" time="0.011" classname="com.learnAutomation.FirstMavenDemo"/>
+</testsuite>
